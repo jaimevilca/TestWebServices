@@ -1,0 +1,1 @@
+java -jar -Dspring.profiles.active=dev target/practica_1_pruebas_ordinaria-0.0.1-SNAPSHOT.jar
